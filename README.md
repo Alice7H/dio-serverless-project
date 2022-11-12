@@ -28,4 +28,5 @@ Esta aplicação utiliza algumas dependências:
 - `aws-sdk`.
 
 O uuid fornece um identificador único universal (do inglês universally unique identifier - UUID).
+
 O AWS SDK fornece uma API JavaScript para serviços da AWS.
